@@ -6,6 +6,5 @@ I have worked at [UTRGV](http://www.utrgv.edu/) as a System Analyst Assistant an
 
 #### History
 - Assisted Dr. Andras Balogh at UTRGV using CUDA Python . Project focused on [Dr. Tamer Oraby's research](https://faculty.utrgv.edu/tamer.oraby/research.htm) in infectious disease modeling.
-- Data Visualization & Intelligence Analysis of "San Valero" Traffic Fatalities
 - Secretary of [Society of Physics Students](https://www.spsnational.org/) - Edinburg
 - Member of [Association of Computing Machinery](https://www.acm.org/)
