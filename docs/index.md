@@ -1,4 +1,4 @@
-## Thalia Juarez
+## Thalia M
 
 I am a backend developer at [HTRI.](https://www.htri.net/)
 
