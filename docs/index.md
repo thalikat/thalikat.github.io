@@ -1,6 +1,4 @@
-## Thalia M
-
-I am a backend developer at [HTRI.](https://www.htri.net/)
+I am currently a backend engineer.
 
 I have worked at [UTRGV](http://www.utrgv.edu/) as a System Analyst Assistant and as a Veterinary Assistant at an animal hospital.
 
