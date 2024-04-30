@@ -1,8 +1,8 @@
-I am currently a backend engineer.
+I am currently a backend engineer building ASP.NET web applications. :cowboy_hat_face:
 
-I have worked at [UTRGV](http://www.utrgv.edu/) as a System Analyst Assistant and as a Veterinary Assistant at an animal hospital.
+Previously, I worked at [UTRGV](http://www.utrgv.edu/) as a System Analyst Assistant.
 
-[LinkedIn Profile](https://www.linkedin.com/in/thalia-juarez/)
+[LinkedIn Profile](https://www.linkedin.com/in/thalia-marquez/)
 
 #### History
 - Assisted Dr. Andras Balogh at UTRGV using CUDA Python . Project focused on [Dr. Tamer Oraby's research](https://faculty.utrgv.edu/tamer.oraby/research.htm) in infectious disease modeling.
