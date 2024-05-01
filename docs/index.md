@@ -1,4 +1,4 @@
-<img src="./assets/palm-tree-original.jpg" class="img-responsive" alt="">
+<img src="https://github.com/thalikat/thalikat.github.io/blob/main/assets/palm-tree-original.jpg" class="img-responsive" alt="">
 
 # About
 
