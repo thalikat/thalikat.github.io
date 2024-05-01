@@ -1,4 +1,4 @@
-I am currently a backend engineer building ASP.NET web applications. :cowboy_hat_face:
+I am currently a backend engineer building ASP.NET web applications.
 
 Previously, I worked at [UTRGV](http://www.utrgv.edu/) as a System Analyst Assistant.
 
