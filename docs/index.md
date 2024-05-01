@@ -1,4 +1,4 @@
-![blink](./assets/palm-tree-original.jpg)
+<img src="/assets/palm-tree-original.jpg" class="img-responsive" alt=""> </div>
 
 # About
 
