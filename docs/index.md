@@ -1,6 +1,4 @@
-# [thalikat.github.io](https://thalikat.github.io/)
-
-## About
+# About
 
 I am currently a backend engineer building ASP.NET web applications.
 
