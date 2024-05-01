@@ -1,3 +1,5 @@
+![blink](./assets/palm-tree-original.jpg)
+
 # About
 
 I am currently a backend engineer building ASP.NET web applications.
