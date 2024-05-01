@@ -1,6 +1,6 @@
 # [thalikat.github.io](https://thalikat.github.io/)
 
-![blink](./assets/blinking.gif)
+![blink](./assets/palm-tree-original.jpg)
 
 ## About
 
