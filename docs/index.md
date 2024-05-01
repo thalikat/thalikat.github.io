@@ -1,4 +1,4 @@
-<img src="/assets/palm-tree-original.jpg" class="img-responsive" alt=""> </div>
+<img src="/assets/palm-tree-original.jpg" class="img-responsive" alt="">
 
 # About
 
