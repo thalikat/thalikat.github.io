@@ -1,8 +1,10 @@
-<img src="https://raw.githubusercontent.com/thalikat/thalikat.github.io/main/assets/palm-tree-original.jpg" class="img-responsive" alt="" style="width:25%;height:5%;" align="right">
+<img src="https://raw.githubusercontent.com/thalikat/thalikat.github.io/main/assets/palm-tree-original.jpg" class="img-responsive" alt="" style="width:25%;height:5%;" align="left">
 
 # About
 
 I am currently a backend engineer building ASP.NET web applications.
+
+Currently reading: C# In Depth by Jon Skeet
 
 ## History
 
